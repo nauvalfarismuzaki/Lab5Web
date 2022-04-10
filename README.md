@@ -43,3 +43,8 @@ Pembuatan fungsi dan cara pemanggilannya. Berikut untuk tampilannya.
 Operasi dasar aritmatika, Berikut Untuk tampilannya
 
 ![aritmatic](pictures/gambar7.png)
+
+7. **Dasar Pemrograman Di Javascript**
+Seleksi kondisi (if..else), berikut untuk tampilannya
+
+![seleksi](pictures/gambar8.png)
