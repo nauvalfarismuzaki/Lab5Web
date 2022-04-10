@@ -30,6 +30,7 @@ Pemakaian method dalam objek. Berikut untuk tampilannya.
 Pemakaian prompt. Berikut untuk tampilannya
 
 ![awal](pictures/gambar5.png)
+<br>
 ![ahir](pictures/gambar4.png)
 <br>
 
@@ -43,6 +44,8 @@ Pembuatan fungsi dan cara pemanggilannya. Berikut untuk tampilannya.
 Operasi dasar aritmatika, Berikut Untuk tampilannya
 
 ![aritmatic](pictures/gambar7.png)
+<br>
+![ahir](pictures/gamabr9.png)
 
 7. **Dasar Pemrograman Di Javascript**
 Seleksi kondisi (if..else), berikut untuk tampilannya
