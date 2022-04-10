@@ -8,26 +8,29 @@ TUGAS PERTEMUAN 5
 <hr>
 
 1. **Pengenalan JavaScript**
-
 Gambar dibawah Menunjukan langkah awal pengenalan JavaScript.
+<br>
 
 ![Pengenalan](pictures/gambar1.png)
 <br>
 
 2. **Javascrip Dasar<br>**
 Pemakaian Alert sebagai property window. Berikut Untuk tampilannya.
+<br>
 
 ![dasar](pictures/gambar2.png)
 <br>
 
 3. **Javascrip Dasar<br>** 
 Pemakaian method dalam objek. Berikut untuk tampilannya.
+<br>
 
 ![method](pictures/gambar3.png)
 <br>
 
 4. **Javascrip Dasar<br>** 
-Pemakaian prompt. Berikut untuk tampilannya
+Pemakaian prompt. Berikut untuk tampilannya.
+<br>
 
 ![awal](pictures/gambar5.png)
 <br>
@@ -36,12 +39,14 @@ Pemakaian prompt. Berikut untuk tampilannya
 
 5. **Javascrip Dasar<br>** 
 Pembuatan fungsi dan cara pemanggilannya. Berikut untuk tampilannya.
+<br>
 
 ![fungsi](pictures/gambar6.png)
 <br>
 
 6. **Dasar Pemrograman Di Javascript**
 Operasi dasar aritmatika, Berikut Untuk tampilannya
+<br>
 
 ![aritmatic](pictures/gambar7.png)
 <br>
@@ -49,5 +54,15 @@ Operasi dasar aritmatika, Berikut Untuk tampilannya
 
 7. **Dasar Pemrograman Di Javascript**
 Seleksi kondisi (if..else), berikut untuk tampilannya
+<br>
 
 ![seleksi](pictures/gambar8.png)
+
+8. **Dasar Pemrograman Di Javascript**
+Penggunaan operator switc untuk seleksi kondisi, berikut untuk tampilannya.
+<br>
+
+![awal](pictures/gambar10.png)
+<br>
+![ahir](pictures/gambar11.png)
+<br>
