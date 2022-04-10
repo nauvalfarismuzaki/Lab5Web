@@ -37,3 +37,9 @@ Pemakaian prompt. Berikut untuk tampilannya
 Pembuatan fungsi dan cara pemanggilannya. Berikut untuk tampilannya.
 
 ![fungsi](pictures/gambar6.png)
+<br>
+
+6. **Dasar Pemrograman Di Javascript**
+Operasi dasar aritmatika, Berikut Untuk tampilannya
+
+![aritmatic](pictures/gambar7.png)
