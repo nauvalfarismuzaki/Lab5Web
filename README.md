@@ -12,3 +12,9 @@ TUGAS PERTEMUAN 5
 Gambar dibawah Menunjukan langkah awal pengenalan JavaScript.
 
 ![Pengenalan](pictures/gambar1.png)
+<br>
+
+2. Javascrip Dasar
+Pemakaian Alert sebagai property window. Berikut Untuk tampilannya
+
+![dasar](pictures/gambar2.png)
