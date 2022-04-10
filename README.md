@@ -1,5 +1,5 @@
 # Lab5Web
-TUGAS PERTEMUAN 5
+TUGAS PERTEMUAN 6
 | Nama | Moch. Nauval Faris Muzaki |
 | --- | --- |
 | NIM | 312010122 |
