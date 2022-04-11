@@ -80,3 +80,7 @@ Pembuatan Form button, Berikut untuk tampilannya <br>
 
 ![button](pictures/gambar13.png)
 
+11. **HTML DOM**
+Pilihan menggunakan checkBox dengan perhitungan otomatis, berikut untuk tampilannya
+
+![htmldom](pictures/gambar14.png)
