@@ -51,12 +51,14 @@ Operasi dasar aritmatika, Berikut Untuk tampilannya
 ![aritmatic](pictures/gambar7.png)
 <br>
 ![ahir](pictures/gamabr9.png)
+<br>
 
 7. **Dasar Pemrograman Di Javascript** <br>
 Seleksi kondisi (if..else), berikut untuk tampilannya
 <br>
 
 ![seleksi](pictures/gambar8.png)
+<br>
 
 8. **Dasar Pemrograman Di Javascript** <br>
 Penggunaan operator switc untuk seleksi kondisi, berikut untuk tampilannya.
@@ -66,3 +68,10 @@ Penggunaan operator switc untuk seleksi kondisi, berikut untuk tampilannya.
 <br>
 ![ahir](pictures/gambar11.png)
 <br>
+
+9. **Dasar Pemrograman Di Javascript** <br>
+Pembuatan Form Input, Berikut untuk tampilannya <br>
+
+![input](pictures/gambar12.png)
+<br>
+
